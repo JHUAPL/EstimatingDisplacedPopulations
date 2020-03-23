@@ -1,0 +1,10 @@
+tensorflow
+keras
+gdal
+shapely
+utm
+tqdm
+numpy
+skimage
+albumentations
+image-classifiers==1.0.0b1
