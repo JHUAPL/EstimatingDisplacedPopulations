@@ -20,7 +20,15 @@ For details and instructions for downloading the dataset used in this work, plea
 
 ## Dependencies
 
-See [requirements.txt](requirements.txt).
+Retrieve submodule files using:
+```
+git submodule update --init --recursive
+```
+
+See [requirements.txt](requirements.txt) and install using:
+```
+pip install -r requirements.txt
+```
 
 ## Running the code
 
