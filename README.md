@@ -4,12 +4,12 @@ This code was developed by [JHU/APL](http://www.jhuapl.edu) to demonstrate how a
 
 ## References
 
-If you use our code, please cite our paper (to be uploaded to arXiv soon):
+If you use our code, please cite our [paper](https://arxiv.org/abs/2006.14547):
 ```
-@article{hadzic2020,
+@article{hadzic2020estimating,
   title={Estimating Displaced Populations from Overhead},
   author={Hadzic, Armin and Christie, Gordon and Freeman, Jeffrey and Dismer, Amber and Bullard, Stevan and Greiner, Ashley and Jacobs, Nathan and Mukherjee, Ryan},
-  booktitle={arXiv preprint},
+  journal={arXiv preprint arXiv:2006.14547},
   year={2020}
 }
 ```
