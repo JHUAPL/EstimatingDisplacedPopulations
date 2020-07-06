@@ -1,6 +1,6 @@
 # Tools for IDP and Refugee Camp Analysis
 
-This code was developed by [JHU/APL](http://www.jhuapl.edu) to demonstrate how artificial intelligence and machine learning can be leveraged for IDP and Refugee Camp planning and safety monitoring.
+This code was developed by [JHU/APL](http://www.jhuapl.edu) to demonstrate how artificial intelligence and machine learning can be leveraged IDP and Refugee Camp planning and safety monitoring
 
 ## References
 
@@ -20,15 +20,7 @@ For details and instructions for downloading the dataset used in this work, plea
 
 ## Dependencies
 
-Retrieve submodule files using:
-```
-git submodule update --init --recursive
-```
-
-See [requirements.txt](requirements.txt) and install using:
-```
-pip install -r requirements.txt
-```
+See [requirements.txt](requirements.txt).
 
 ## Running the code
 
@@ -44,8 +36,4 @@ python main.py
 * `--multiprocessing` leverage multiple processes to speed up dataloading
 * `--add-osm` use OSM structure mask data
 * `--gpu [GPU_ID(s)]` specify GPU device IDs to use
-
-## License
-
-The license is Apache 2.0. See [LICENSE](LICENSE).
 
